@@ -1,0 +1,11 @@
+minio:
+ endpoint: http://127.0.0.1:9000/
+ accessKey: minioadmin
+ secretKey: minioadmin
+ bucketName: something
+# picName: project-file/611175bc51904fc295f6c75e00ef441c.png
+ picName: project-file/8ce7884f838740a188466cfc7aec0dc7.JPG
+# picName: project-file/c3dd825647ed4ca0b8c8fc105e7bc770.JPG
+# picName: project-file/ef840dd45cbf440dac5f6666a54e0282.JPG
+# picName: project-file/f6bfa55961904c5ba2af3a77b072e148.JPG
+# picName: project-file/805795d1c9af4104ae36d063aa2f70a5.JPG
